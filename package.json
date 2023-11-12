@@ -1,0 +1,25 @@
+{
+  "name": "desafio1",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "axios": "^1.6.1",
+    "vite-svg-loader": "^4.0.0",
+    "vue": "^3.3.4",
+    "vue-router": "4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.3.4",
+    "autoprefixer": "^10.4.16",
+    "create-vite": "^4.4.1",
+    "postcss": "^8.4.31",
+    "tailwindcss": "^3.3.3",
+    "vite": "^4.4.9",
+    "vue-svg-loader": "^0.16.0"
+  }
+}
